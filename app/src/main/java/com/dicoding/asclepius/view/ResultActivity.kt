@@ -41,7 +41,7 @@ class ResultActivity : AppCompatActivity() {
                 contextValue = this,
                 classifierListenerValue = object : ImageClassifierHelper.ClassifierListener {
                     override fun onError(errorMessage: String) {
-                        Log.d(TAG, "Error: $errorMessage")
+                        Log.d(TAG, "Error: The image can inisialize")
                     }
 
                     override fun onResults(results: List<Classifications>?, inferenceTime: Long) {
