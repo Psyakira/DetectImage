@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aplikasi Deteksi Kanker</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analisis</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="crop_image">Potong Gambar</string>
+    <string name="crop_failed">Gambar Gagal dipotong</string>
+    <string name="no_history_found">Tidak ada history</string>
+    <string name="cancerOrNonCancer">Cancer|NonCancer</string>
+    <string name="score">10%</string>
+    <string name="history">Riwayat</string>
+    <string name="home">Home</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize</string>
+
+</resources>
